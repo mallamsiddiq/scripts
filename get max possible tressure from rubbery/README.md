@@ -1,6 +1,16 @@
 # what's in the .py
 
+## Yes!!, the scripts
 I solved the problem and wrote it inside a script called waje.py file attached in the submission. The python script contains two part: the main function that returns the value given the array of houses and the test part to test the function against test cases
+
+## Problem Statement
+
+There are n houses built in a line. A thief wants to steal the maximum possible money from these houses. The only restriction the thief has is that he can’t steal from two consecutive houses, as that would alert the security system. How should the thief maximize his stealing?
+Given a number array representing the wealth of n houses,
+determine the maximum amount of money the thief can steal
+without alerting the security system.
+
+
 
 ## Methodology:
 
