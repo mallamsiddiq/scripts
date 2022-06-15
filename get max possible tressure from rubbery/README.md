@@ -1,7 +1,7 @@
 # what's in the .py
 
-## Yes!!, the scripts
-I solved the problem and wrote it inside a script called waje.py file attached in the submission. The python script contains two part: the main function that returns the value given the array of houses and the test part to test the function against test cases
+## Yes!!, the script
+I solved the problem and wrote it inside a script called waje.py file attached in this repo. The python script contains two part: the main function that returns the value given the array of houses and the test part to test the function against test cases
 
 ## Problem Statement
 
